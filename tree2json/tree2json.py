@@ -37,14 +37,25 @@ class Tree2Json:
             if pos == -1:
                 continue
             level = self.compute_level(pos) + 1  # +1: 根目录为 level 0
-            name = line[pos + 3:].strip()
+
+            content = line[pos + 3:].strip()
+            # 支持 ← # // -- 作为注释分隔符
+            match = re.match(r'^(.*?)(?:\s*(?:←|#|//|--)\s*)(.+)$', content)
+            if match:
+                name_part = match.group(1).strip()
+                desc_part = match.group(2).strip()
+            else:
+                name_part = content
+                desc_part = ""
+
             node = {
                 "level": level,
-                "type": "file" if '.' in name else "dir",
-                "name": name,
-                "description": "",
+                "type": "file" if '.' in name_part else "dir",
+                "name": name_part,
+                "description": desc_part,
                 "child": []
             }
+
             self.nodes.append(node)
 
     def build_tree(self):
