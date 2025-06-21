@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="tree2json",
-    version="0.1.0",
+    version="0.1.2",
     packages=find_packages(),
     author="knighthood2001",
     description="将项目目录树字符串转换为JSON结构",

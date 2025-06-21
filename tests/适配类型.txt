@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------
+G:\Desktop
+├── 5个创新模块.pdf
+├── AIproject
+|  ├── mnist.zip
+|  └── 论文
+├── bihui_pic
+|  ├── 4
+|  └── ccccz
+├── Blender 4.3.lnk
+├── 钉钉.lnk
+└── 飞书.lnk
+---------------------------------------------------------------------------
+.
+├── data
+│   ├── data.zip
+│   └── results
+├── datasets
+│   ├── __pycache__
+│   └── toy.py
+├── env.yml
+└── utils
+    ├── denoise.py
+    ├── __pycache__
+    └── transforms.py
+---------------------------------------------------------------------------
+G:\Desktop\111\code
+└── vscode_extension
+   ├── ros-pathjump
+   |  ├── node_modules
+   |  |  └── yocto-queue
+   |  ├── package-lock.json
+   |  ├── README.md
+   |  └── vsc-extension-quickstart.md
+   └── vscode-roslaunch
+      ├── src
+      |  └── panels
+      ├── tsconfig.json
+      └── webviews
+         └── launch-tree-ui
+---------------------------------------------------------------------------

@@ -1,12 +1,17 @@
 import re
 import json
-import os   
 
 class Tree2Json:
     def __init__(self, mode="auto"):
         self.mode = mode
         self.nodes = []
-        self.root = None
+        self.root = {
+            "level": 0,
+            "type": "dir",
+            "name": ".",
+            "description": "",
+            "child": []
+        }
 
     def find_branch_pos(self, line):
         match = re.search(r'[├└]──', line)
@@ -64,24 +69,7 @@ class Tree2Json:
 
     def from_string(self, tree_str):
         lines = tree_str.strip().splitlines()
-        if not lines:
-            raise ValueError("tree string is empty")
-
-        # 解析第一行作为根节点名称
-        first_line = lines[0].strip()
-        if first_line == ".":
-            root_name = "."
-        else:
-            root_name = os.path.basename(first_line.replace("\\", "/"))  # 防止 Windows 路径
-        self.root = {
-            "level": 0,
-            "type": "dir",
-            "name": root_name,
-            "description": "",
-            "child": []
-        }
-
-        self.parse_lines(lines[1:])  # 跳过第一行
+        self.parse_lines(lines)
         self.build_tree()
 
     def to_dict(self):
