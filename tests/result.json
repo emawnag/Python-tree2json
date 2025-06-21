@@ -1,0 +1,95 @@
+{
+    "level": 0,
+    "type": "dir",
+    "name": ".",
+    "description": "",
+    "child": [
+        {
+            "level": 1,
+            "type": "dir",
+            "name": "data",
+            "description": "",
+            "child": [
+                {
+                    "level": 2,
+                    "type": "file",
+                    "name": "data.zip",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "dir",
+                    "name": "examples",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "dir",
+                    "name": "PUNet",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "dir",
+                    "name": "results",
+                    "description": "",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "type": "dir",
+            "name": "datasets",
+            "description": "",
+            "child": [
+                {
+                    "level": 2,
+                    "type": "dir",
+                    "name": "__pycache__",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "file",
+                    "name": "toy.py",
+                    "description": "",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "type": "dir",
+            "name": "utils",
+            "description": "",
+            "child": [
+                {
+                    "level": 2,
+                    "type": "file",
+                    "name": "denoise.py",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "dir",
+                    "name": "__pycache__",
+                    "description": "",
+                    "child": []
+                },
+                {
+                    "level": 2,
+                    "type": "file",
+                    "name": "transforms.py",
+                    "description": "",
+                    "child": []
+                }
+            ]
+        }
+    ]
+}
