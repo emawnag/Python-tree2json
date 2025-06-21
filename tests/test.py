@@ -19,7 +19,5 @@ tree_str = """
 if __name__ == "__main__":
     converter = Tree2Json(mode="auto")
     converter.from_string(tree_str)
-
     converter.to_json("result.json")
-
     print(converter.to_json())
