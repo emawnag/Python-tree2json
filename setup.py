@@ -3,9 +3,10 @@ from setuptools import setup, find_packages
 setup(
     name="tree2json",
     version="0.1.3",
-    packages=find_packages(),
-    author="knighthood2001",
     description="将项目目录树字符串转换为JSON结构",
+    author="knighthood2001",
+    url="https://github.com/Knighthood2001/Python-tree2json", 
+    packages=find_packages(),
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     python_requires=">=3.6",
