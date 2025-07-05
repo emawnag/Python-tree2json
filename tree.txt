@@ -1,0 +1,1481 @@
+Folder PATH listing
+Volume serial number is 926F-4EEE
+C:.
+│   appSettings.json
+│   LICENSE
+│   logs.txt
+│   OneNoteMdExporter.exe
+│   OneNoteMdExporter.pdb
+│   tree.txt
+│   
+├───Exports
+│   └───md
+│       ├───國考中文醫學知識網站架設計畫-20250705 11-26
+│       │   ├───resources
+│       │   │       00eca61a7d304040b93546db9b1291e5.png
+│       │   │       03444a5cba4843bb8cd96d4678e87180.png
+│       │   │       07fdde747ceb4581a5c6ebb73cda0877.jpg
+│       │   │       08ebdc9937614934bdd0507c0dfaf702.png
+│       │   │       0ac1655ca7eb4bc1a137cb9b6a391621.png
+│       │   │       0af646d6dc0f45c0a9706451acdb1e77.png
+│       │   │       0c1904232c99475185640755a57d0300.png
+│       │   │       0e93b158b52245459367aed24f12fb53.png
+│       │   │       0f905f252062450ca0160dfa64782768.png
+│       │   │       12c553f3f05f4607a70ebc2127c84a8b.png
+│       │   │       176e69c3b9df482c9b4f99d16c1be6c7.png
+│       │   │       1957f2594c044002984efdf488ce1845.png
+│       │   │       20757f5a9f494daa8e5f7fd7b4e4eb0a.png
+│       │   │       21e179aca8e641ff89ed2dfab9e6e07c.png
+│       │   │       2329fa3900624e10ba851a3d528893e4.png
+│       │   │       23edc20969f9498a972ca9ce9865e60f.png
+│       │   │       28c02053da054f53aecc45f2a69a2c22.png
+│       │   │       332c3c0ab15141e8b9eb81d1b58ad0ce.png
+│       │   │       363f326e51524e6da060c9cad2482536.png
+│       │   │       3898686cc4054ac0befdcd007dee0ece.png
+│       │   │       3ad2c289838345aa88386e207cff12c4.png
+│       │   │       42dca11ac77b43b2be33d2b97c29791a.jpeg
+│       │   │       45e5753592b7417097b75f953ed2a28a.png
+│       │   │       48105d5c5dc04041af124687ff0cec0a.png
+│       │   │       4f844adba82d44eeaf32d4daefefdea4.png
+│       │   │       5943231f30b14a309728516b72ebfd99.png
+│       │   │       61095e8ac4454c6ba43329fd63fc3d14.jpeg
+│       │   │       68abae8e83a84f1bb855f2faab35c041.png
+│       │   │       6a71db9551f440db9dbfb624a80f35dd.png
+│       │   │       6da3ec0777fb4c4abbb5a924a6d316f9.png
+│       │   │       7ffea49374054e29b6fd5d18e5cc71a2.png
+│       │   │       8088c3ef4ad24445a8af07ae83a80989.png
+│       │   │       8376ce7125774cbbb5fba8943379b8af.png
+│       │   │       87837d36782d4eb0b756f2aa18305c97.png
+│       │   │       8821b7dba8ca4398b388b5204e65c514.png
+│       │   │       8df00659e2234469ae362c529767bd26.jpg
+│       │   │       8e8f62fb313e4df58c0380b98b19d52a.png
+│       │   │       8eff5bf2b8e641239f57e1efa63fa26d.png
+│       │   │       98c88454cbdd48c0a9ef550e8344a74b.png
+│       │   │       a113359ba12144de8409cb0ff61a3aca.png
+│       │   │       a1c595e1a07d4de7862a593aa1530031.png
+│       │   │       a5d792d850f14a81b21ccd929ac7ee12.jpg
+│       │   │       a784d56749534ec1bfcacc6a9729335f.png
+│       │   │       aa1abfefa28b4a5c82c422720f4d4023.png
+│       │   │       b2eac4700b3f4a6f9a7943ac6400d060.jpg
+│       │   │       b63e9fb76a8d4e3894139b042abbb1f9.png
+│       │   │       b6821fe90bcb4468b73b6db0e8ad0140.png
+│       │   │       bb3d3d6eeeaf41b48aa1797bbf1101e2.png
+│       │   │       be15e4d6906149df8edf28e0a290ea07.png
+│       │   │       c3e3756f1b214218bc6f1b58a4712d4c.png
+│       │   │       ca25e39ced6c42b4abca2a200c5e8cb7.png
+│       │   │       ce2919fb873b45f0a201d571b2c88c55.png
+│       │   │       d06fddcf40364dd0a4f18ee706e93518.png
+│       │   │       d581b6def6ed4976be004961aab55c35.png
+│       │   │       da1b7fcd6b2f4320af6674884d686c21.png
+│       │   │       e89573a5881a4733b753d900e8959303.png
+│       │   │       e99af55dd13a42aa81e2325f7ca0f267.jpg
+│       │   │       f7698887fd024884a7ce649b9b204bbd.png
+│       │   │       f94508acd6cc4d96b581a437d65311e8.png
+│       │   │       fef5226c0c8841b497873d6093404739.png
+│       │   │       ffb388fb05244ba59ead4843caecbd64.png
+│       │   │       
+│       │   └───國考中文醫學知識網站架設計畫
+│       │       ├───兒科
+│       │       │   │   兒內.md
+│       │       │   │   兒外.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   編輯格式.md
+│       │       │   │   
+│       │       │   ├───兒內
+│       │       │   │   │   兒科基礎.md
+│       │       │   │   │   兒童發展、疫苗.md
+│       │       │   │   │   兒童過敏免疫風濕疾病.md
+│       │       │   │   │   內分泌疾病.md
+│       │       │   │   │   小兒腎臟學疾病.md
+│       │       │   │   │   心臟肺部血管系統.md
+│       │       │   │   │   感染科學.md
+│       │       │   │   │   新生兒科.md
+│       │       │   │   │   消化系統.md
+│       │       │   │   │   神經系統性疾病.md
+│       │       │   │   │   腫瘤學.md
+│       │       │   │   │   血液學.md
+│       │       │   │   │   遺傳學.md
+│       │       │   │   │   
+│       │       │   │   └───新生兒科
+│       │       │   │           新生兒呼吸相關疾病.md
+│       │       │   │           新生兒感染感染.md
+│       │       │   │           新生兒評估(Newborn PE).md
+│       │       │   │           新生兒黃疸(Neonatal Jaundice).md
+│       │       │   │           
+│       │       │   └───兒外
+│       │       │           先天腹壁異常.md
+│       │       │           創傷.md
+│       │       │           惡性腫瘤.md
+│       │       │           生殖泌尿道.md
+│       │       │           肝膽道疾病.md
+│       │       │           腦及神經疾病.md
+│       │       │           腸胃道.md
+│       │       │           血管性疾病.md
+│       │       │           頸部腫塊[CS].md
+│       │       │           體液、電解質及營養.md
+│       │       │           
+│       │       ├───內科
+│       │       │   │   CV-整體修改建議如下.md
+│       │       │   │   GI.md
+│       │       │   │   META.md
+│       │       │   │   ?模板試作(HTN).md
+│       │       │   │   內科值班常見情形.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   胸內.md
+│       │       │   │   
+│       │       │   ├───CV-整體修改建議如下
+│       │       │   │   │   ACLS 需要圖片喔.md
+│       │       │   │   │   Aortic disease.md
+│       │       │   │   │   Cardiac neoplasm.md
+│       │       │   │   │   Cardiomyopathy.md
+│       │       │   │   │   EKG.md
+│       │       │   │   │   Ischemic heart disease（IHD）.md
+│       │       │   │   │   Syncope （內容太少了喔）.md
+│       │       │   │   │   Vascular disease.md
+│       │       │   │   │   心包疾病 Pericarditis disease.md
+│       │       │   │   │   心律不整.md
+│       │       │   │   │   心臟電生理.md
+│       │       │   │   │   心衰竭.md
+│       │       │   │   │   瓣膜性心臟病.md
+│       │       │   │   │   高血壓.md
+│       │       │   │   │   高血脂.md
+│       │       │   │   │   
+│       │       │   │   ├───Aortic disease
+│       │       │   │   │       Aneurysm.md
+│       │       │   │   │       主動脈剝離.md
+│       │       │   │   │       
+│       │       │   │   ├───Ischemic heart disease（IHD）
+│       │       │   │   │       Acute coronary syndrome.md
+│       │       │   │   │       Coronary artery disease.md
+│       │       │   │   │       
+│       │       │   │   └───Vascular disease
+│       │       │   │           Peripheral Artery Disease (PAD).md
+│       │       │   │           靜脈血栓栓塞症（Venous Thromboembolism, VTE.md
+│       │       │   │           
+│       │       │   ├───GI
+│       │       │   │   │   上消化道-上消化道出血.md
+│       │       │   │   │   上消化道-吞嚥困難與食道疾病.md
+│       │       │   │   │   上消化道-胃部疾病.md
+│       │       │   │   │   代謝性肝病.md
+│       │       │   │   │   大腸與直腸疾病-IBD.md
+│       │       │   │   │   小腸疾病-腹瀉與吸收障礙.md
+│       │       │   │   │   急性腸阻塞.md
+│       │       │   │   │   急性腹症.md
+│       │       │   │   │   急性與慢性肝炎.md
+│       │       │   │   │   慢性胰臟炎.md
+│       │       │   │   │   結腸疾病.md
+│       │       │   │   │   肝硬化與併發症.md
+│       │       │   │   │   肝腫瘤與癌症.md
+│       │       │   │   │   肝臟疾病-肝功能異常與評估.md
+│       │       │   │   │   肝臟移植與TIPS.md
+│       │       │   │   │   胰臟疾病（Pancreas）-急性胰臟炎.md
+│       │       │   │   │   胰臟腫瘤.md
+│       │       │   │   │   脂肪肝與酒精性肝病.md
+│       │       │   │   │   腸躁症 IBS.md
+│       │       │   │   │   膽道感染與腫瘤.md
+│       │       │   │   │   膽道疾病-膽結石與膽囊炎.md
+│       │       │   │   │   膽道阻塞.md
+│       │       │   │   │   黃疸與膽紅素異常.md
+│       │       │   │   │   
+│       │       │   │   ├───上消化道-上消化道出血
+│       │       │   │   │       Esophageal Varices.md
+│       │       │   │   │       Mallory-Weiss Tear.md
+│       │       │   │   │       UGI bleeding.md
+│       │       │   │   │       
+│       │       │   │   ├───上消化道-吞嚥困難與食道疾病
+│       │       │   │   │       Achalasia.md
+│       │       │   │   │       Diverticula.md
+│       │       │   │   │       Dysphagia?吞嚥困難.md
+│       │       │   │   │       GERD.md
+│       │       │   │   │       食道癌.md
+│       │       │   │   │       
+│       │       │   │   ├───上消化道-胃部疾病
+│       │       │   │   │       Gastric Cancer.md
+│       │       │   │   │       Gastritis.md
+│       │       │   │   │       Peptic Ulcer Disease.md
+│       │       │   │   │       Zollinger-Ellison Syndrome.md
+│       │       │   │   │       
+│       │       │   │   ├───大腸與直腸疾病-IBD
+│       │       │   │   │       Crohn’s Disease.md
+│       │       │   │   │       Ulcerative Colitis.md
+│       │       │   │   │       
+│       │       │   │   ├───小腸疾病-腹瀉與吸收障礙
+│       │       │   │   │       AcuteChronic Diarrhea.md
+│       │       │   │   │       Malabsorption 吸收不良症候群.md
+│       │       │   │   │       
+│       │       │   │   ├───急性腹症
+│       │       │   │   │       急性腹膜炎 Peritonitis.md
+│       │       │   │   │       急性闌尾炎 Appendicitis.md
+│       │       │   │   │       
+│       │       │   │   ├───結腸疾病
+│       │       │   │   │       Colorectal Cancer.md
+│       │       │   │   │       Diverticulitis.md
+│       │       │   │   │       Ischemic Colitis.md
+│       │       │   │   │       
+│       │       │   │   ├───膽道感染與腫瘤
+│       │       │   │   │       Cholangiocarcinoma.md
+│       │       │   │   │       Cholangitis.md
+│       │       │   │   │       PSC vs PBC.md
+│       │       │   │   │       
+│       │       │   │   └───膽道疾病-膽結石與膽囊炎
+│       │       │   │           Cholecystitis.md
+│       │       │   │           Cholelithiasis.md
+│       │       │   │           Gallstone ileus.md
+│       │       │   │           
+│       │       │   ├───META
+│       │       │   │       DM foot.md
+│       │       │   │       
+│       │       │   ├───內科值班常見情形
+│       │       │   │       休克.md
+│       │       │   │       發燒.md
+│       │       │   │       
+│       │       │   └───胸內
+│       │       │       │   Critical care.md
+│       │       │       │   Respiratory failure.md
+│       │       │       │   Sleep apnea.md
+│       │       │       │   感染.md
+│       │       │       │   編輯格式.md
+│       │       │       │   肋膜疾病.md
+│       │       │       │   肺癌.md
+│       │       │       │   胸腔基礎.md
+│       │       │       │   限制性肺疾病.md
+│       │       │       │   
+│       │       │       ├───Critical care
+│       │       │       │       APACHE.md
+│       │       │       │       SOFA.md
+│       │       │       │       
+│       │       │       ├───Respiratory failure
+│       │       │       │       Acute Respiratory Distress Syndrome.md
+│       │       │       │       Respiratory failure.md
+│       │       │       │       TRALI.md
+│       │       │       │       呼吸器.md
+│       │       │       │       
+│       │       │       ├───感染
+│       │       │       │       Lung abscess.md
+│       │       │       │       Pneumonia.md
+│       │       │       │       TB.md
+│       │       │       │       
+│       │       │       ├───編輯格式
+│       │       │       │       Bronchiectasis.md
+│       │       │       │       COPD.md
+│       │       │       │       Cystic fibrosis.md
+│       │       │       │       氣喘.md
+│       │       │       │       
+│       │       │       ├───肋膜疾病
+│       │       │       │       Pleural effusion.md
+│       │       │       │       Pulmonary embolism.md
+│       │       │       │       
+│       │       │       └───限制性肺疾病
+│       │       │               Hypersensitivity pneumonitis.md
+│       │       │               Interstitial lung disease.md
+│       │       │               執業和環境造成.md
+│       │       │               
+│       │       ├───其他科
+│       │       │   │   AI prompt.md
+│       │       │   │   ENT.md
+│       │       │   │   NEURO.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   大綱架構.md
+│       │       │   │   復健科.md
+│       │       │   │   皮膚科.md
+│       │       │   │   眼科.md
+│       │       │   │   精神科.md
+│       │       │   │   麻醉.md
+│       │       │   │   
+│       │       │   ├───皮膚科
+│       │       │   │       乾癬.md
+│       │       │   │       先天性疾病.md
+│       │       │   │       感染性皮膚病.md
+│       │       │   │       水泡疾病.md
+│       │       │   │       皮膚炎濕疹和炎症性疾病.md
+│       │       │   │       皮膚腫瘤皮膚增生.md
+│       │       │   │       皮膚色素病.md
+│       │       │   │       自體免疫性疾病.md
+│       │       │   │       藥物疹.md
+│       │       │   │       
+│       │       │   ├───眼科
+│       │       │   │       淚液系統.md
+│       │       │   │       眼瞼.md
+│       │       │   │       結膜.md
+│       │       │   │       
+│       │       │   └───精神科
+│       │       │           未命名頁面.md
+│       │       │           
+│       │       ├───外科
+│       │       │   │   GS.md
+│       │       │   │   NS.md
+│       │       │   │   心外.md
+│       │       │   │   手掌腳掌dermis很厚，可以試著做secondary healing.md
+│       │       │   │   胸外.md
+│       │       │   │   
+│       │       │   ├───GS
+│       │       │   │       Acute adomen.md
+│       │       │   │       
+│       │       │   ├───NS
+│       │       │   │       Spinal cord injury[復健].md
+│       │       │   │       三叉神經痛.md
+│       │       │   │       昏迷指數.md
+│       │       │   │       神外術後電解質常見失衡.md
+│       │       │   │       脊椎疾病.md
+│       │       │   │       腦死判定.md
+│       │       │   │       腦瘤.md
+│       │       │   │       血管畸形.md
+│       │       │   │       頭部創傷顱內出血.md
+│       │       │   │       顱內出血.md
+│       │       │   │       顱內壓.md
+│       │       │   │       顱頸交界處異常(Craniocervical junction ano.md
+│       │       │   │       
+│       │       │   ├───心外
+│       │       │   │   │   (V) 主動脈剝離 Aortic Dissection.md
+│       │       │   │   │   (V) 動脈瘤.md
+│       │       │   │   │   Eisenmenger’s Syndrome.md
+│       │       │   │   │   三心房（cor triatriatum）.md
+│       │       │   │   │   主動脈弓中斷（Interrupted Aortic Arch, IAA.md
+│       │       │   │   │   主動脈弓狹窄（CoA）.md
+│       │       │   │   │   先天性心臟病.md
+│       │       │   │   │   冠狀動脈疾病及冠狀動脈繞道手術.md
+│       │       │   │   │   右心室雙出口（Double-Outlet Right Ventricl.md
+│       │       │   │   │   周邊血管疾病.md
+│       │       │   │   │   心室中膈缺損（Ventricular Septal Defect）.md
+│       │       │   │   │   心房中膈缺損（Atrial Septal Defect）.md
+│       │       │   │   │   心臟瓣膜疾病.md
+│       │       │   │   │   心臟移植.md
+│       │       │   │   │   心臟腫瘤.md
+│       │       │   │   │   感染性心內膜炎（Infective endocarditis）.md
+│       │       │   │   │   機械式循環輔助(Mechanical Circulatory Supp.md
+│       │       │   │   │   發紺型先天心臟病.md
+│       │       │   │   │   肺動脈狹窄（Pulmonary Stenosis）.md
+│       │       │   │   │   部份肺靜脈回流異常（Partial anomalous pulmona.md
+│       │       │   │   │   開放性動脈導管（Patent Ductus Arteriosus, P.md
+│       │       │   │   │   非發紺型先天性心臟病.md
+│       │       │   │   │   
+│       │       │   │   ├───冠狀動脈疾病及冠狀動脈繞道手術
+│       │       │   │   │       (V) 冠狀動脈繞道術（Coronary artery bypass .md
+│       │       │   │   │       (X) Transmyocardial laser revascula.md
+│       │       │   │   │       
+│       │       │   │   ├───周邊血管疾病
+│       │       │   │   │       (X) 肺栓塞（Pulmonary Embolism）.md
+│       │       │   │   │       上肢深層靜脈栓塞（Upper Extremity Deep Vein .md
+│       │       │   │   │       其他靜脈性疾病.md
+│       │       │   │   │       周邊動脈阻塞性疾病(Peripheral artery occlusi.md
+│       │       │   │   │       深層靜脈栓塞（Deep vein thrombosis, DVT）.md
+│       │       │   │   │       靜脈功能不全（Chronic venous insufficiency.md
+│       │       │   │   │       非血栓性栓塞（Nonthrombotic Embolism）.md
+│       │       │   │   │       
+│       │       │   │   ├───心臟瓣膜疾病
+│       │       │   │   │       主動脈瓣狹窄（Aortic Stenosis).md
+│       │       │   │   │       主動脈逆流（Aortic Regurgitation, AR).md
+│       │       │   │   │       二尖瓣狹窄（Mitral Valve Stenosis）.md
+│       │       │   │   │       二尖瓣閉鎖不全（Mitral Regurgitation）.md
+│       │       │   │   │       人造瓣膜的選擇(Prosthetic?valve).md
+│       │       │   │   │       
+│       │       │   │   └───發紺型先天心臟病
+│       │       │   │           Ebstein anomaly.md
+│       │       │   │           三尖瓣閉鎖 Tricuspid Valve Atresia.md
+│       │       │   │           全肺靜脈回流異常（Total anomalous pulmonary .md
+│       │       │   │           兩側右心房.md
+│       │       │   │           動脈幹 Persistent Truncus Arteriosus.md
+│       │       │   │           大動脈轉位 Transposition of the great ar.md
+│       │       │   │           左心發育不全 Hypoplastic Left Heart Syndr.md
+│       │       │   │           法洛氏四重症（Tetralogy of Fallot）.md
+│       │       │   │           肺動脈閉鎖 Pulmonary Valve Atresia.md
+│       │       │   │           
+│       │       │   └───胸外
+│       │       │           胸廓異常（Pectus deformity）.md
+│       │       │           
+│       │       ├───婦產科
+│       │       │   │   GYN.md
+│       │       │   │   OB.md
+│       │       │   │   OP.md
+│       │       │   │   URO.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   胚胎解剖學.md
+│       │       │   │   高危險妊娠.md
+│       │       │   │   
+│       │       │   ├───GYN
+│       │       │   │   │   一般婦科學.md
+│       │       │   │   │   不孕症.md
+│       │       │   │   │   女性內分泌學.md
+│       │       │   │   │   婦科良性與惡性腫瘤.md
+│       │       │   │   │   
+│       │       │   │   ├───一般婦科學
+│       │       │   │   │       口服避孕藥.md
+│       │       │   │   │       婦科急症.md
+│       │       │   │   │       婦科感染症.md
+│       │       │   │   │       婦科手術併發症.md
+│       │       │   │   │       子宮內膜異位症.md
+│       │       │   │   │       子宮外孕.md
+│       │       │   │   │       陰道鏡.md
+│       │       │   │   │       
+│       │       │   │   ├───不孕症
+│       │       │   │   │       不孕症概論.md
+│       │       │   │   │       人工協助生殖技術.md
+│       │       │   │   │       卵巢過度刺激症候群.md
+│       │       │   │   │       女性不孕.md
+│       │       │   │   │       子宮腔沾黏.md
+│       │       │   │   │       男性不孕.md
+│       │       │   │   │       
+│       │       │   │   ├───女性內分泌學
+│       │       │   │   │       原發性卵巢功能不全.md
+│       │       │   │   │       反覆性流產.md
+│       │       │   │   │       多囊性卵巢症候群.md
+│       │       │   │   │       更年期及荷爾蒙治療.md
+│       │       │   │   │       月經週期.md
+│       │       │   │   │       無月經.md
+│       │       │   │   │       青春期.md
+│       │       │   │   │       骨質疏鬆症.md
+│       │       │   │   │       
+│       │       │   │   └───婦科良性與惡性腫瘤
+│       │       │   │           人類乳突病毒與子宮頸疫苗.md
+│       │       │   │           卵巢上皮細胞腫瘤.md
+│       │       │   │           卵巢囊腫或腫瘤概論.md
+│       │       │   │           卵巢性索間質腫瘤.md
+│       │       │   │           卵巢生殖細胞腫瘤.md
+│       │       │   │           外陰癌.md
+│       │       │   │           妊娠滋養層疾病.md
+│       │       │   │           子宮內膜增生.md
+│       │       │   │           子宮內膜癌.md
+│       │       │   │           子宮肌瘤.md
+│       │       │   │           子宮頸癌.md
+│       │       │   │           子宮頸癌前病變.md
+│       │       │   │           陰道癌.md
+│       │       │   │           
+│       │       │   ├───OB
+│       │       │   │   │   生產時期.md
+│       │       │   │   │   產前時期.md
+│       │       │   │   │   產後時期.md
+│       │       │   │   │   
+│       │       │   │   ├───生產時期
+│       │       │   │   │       安胎.md
+│       │       │   │   │       早產、早期陣痛與早期破水.md
+│       │       │   │   │       正常分娩與產程遲滯.md
+│       │       │   │   │       流產與終止妊娠.md
+│       │       │   │   │       生產胎兒監視.md
+│       │       │   │   │       生產評估.md
+│       │       │   │   │       產前出血.md
+│       │       │   │   │       產前胎兒評估.md
+│       │       │   │   │       產婦胎兒生理學.md
+│       │       │   │   │       產檢.md
+│       │       │   │   │       肩難產.md
+│       │       │   │   │       胎兒健康.md
+│       │       │   │   │       過期妊娠與催生.md
+│       │       │   │   │       
+│       │       │   │   └───產後時期
+│       │       │   │           新生兒.md
+│       │       │   │           產後出血.md
+│       │       │   │           產褥期.md
+│       │       │   │           
+│       │       │   ├───OP
+│       │       │   │       子宮鏡.md
+│       │       │   │       腹腔鏡.md
+│       │       │   │       
+│       │       │   ├───URO
+│       │       │   │       尿失禁.md
+│       │       │   │       排尿生理學與尿路動力學檢查.md
+│       │       │   │       泌尿道感染.md
+│       │       │   │       骨盆腔器官?垂.md
+│       │       │   │       
+│       │       │   ├───胚胎解剖學
+│       │       │   │       胚胎學.md
+│       │       │   │       解剖學.md
+│       │       │   │       
+│       │       │   └───高危險妊娠
+│       │       │           妊娠糖尿病.md
+│       │       │           妊娠高血壓與子癲前症.md
+│       │       │           懷孕併甲狀腺疾病.md
+│       │       │           
+│       │       └───籌備行政事項
+│       │           │   FC架構參考.md
+│       │           │   ?模板試作(HTN).md
+│       │           │   工程組測試頁面.md
+│       │           │   
+│       │           └───FC架構參考
+│       │                   兒科.md
+│       │                   內科.md
+│       │                   外科.md
+│       │                   婦產科.md
+│       │                   示範ITP.md
+│       │                   
+│       ├───國考中文醫學知識網站架設計畫-20250705 11-40
+│       │   ├───resources
+│       │   │       1177f6e0c3394748ad230f9f07153a12.png
+│       │   │       1450b24fc68d4168a51af7b5b59eb370.png
+│       │   │       1ae727ddc0b647dfbf1d86259dfb8b3b.png
+│       │   │       23aebea2aa5646aab7da8c8c5591cbb0.png
+│       │   │       23f4c43b585a4e9eabe7a6f9e980c0c4.png
+│       │   │       273583df79d34410aa036d75325d7198.png
+│       │   │       29a4a701a1a34fd08a16ee631e348458.png
+│       │   │       2d9baab5bc194501929f87cd3f40cca2.png
+│       │   │       2eacadbc81814d2cb6a05d9d789304a3.png
+│       │   │       325b6568912e4a92a90f03918e8807b4.png
+│       │   │       33a98e0ca34b43e0abe456053f258b1c.png
+│       │   │       36da2f11848d4293adaba1b5c0725a7c.png
+│       │   │       3fa9e61f8dad4148a081024f7685a7fa.png
+│       │   │       3fd915e986ef4a0ba3ddfd38f9b3b52a.png
+│       │   │       4072b545486645f7b3c1a0c8bcd51786.jpeg
+│       │   │       42e2d6e3a60b4cbcb447d991728f87a1.png
+│       │   │       43abe0c1916d44319c673ac459098aca.png
+│       │   │       46cedee46c75418caed527c1333eec2b.png
+│       │   │       46d834057ab043a5b8b6d6616f172de7.png
+│       │   │       47cbd83767674398a11b7d5ac384dbcb.png
+│       │   │       53076b832e4840be8a03a5e7920fb8af.jpg
+│       │   │       58327ab9cc5540579f502e9f8c05f984.png
+│       │   │       59892df2d2324f19878c6c08cd26d4c4.png
+│       │   │       62484a48cccc4462b3f6c404a189dcfa.png
+│       │   │       628ed2a7490e4742a778ca95660c7c38.png
+│       │   │       62db4b1d292d43918e2c1ce824e1660d.jpg
+│       │   │       6a4b640e91b94c2e935cfbf38b521e46.png
+│       │   │       6b5c1fe1d6c04c70a3e97f809b55d72e.png
+│       │   │       6c22a59bb5404b27a59b77d4293f9d28.png
+│       │   │       6cc0a9f7e1874046adbbde490abf0082.png
+│       │   │       74cc6bd609b54739be40fa791dbe41c0.png
+│       │   │       77e26327ddb44d21ac1b3e8f0faef6e6.jpg
+│       │   │       792bf11a98124590a707f694bf76796d.png
+│       │   │       80b10a8cfbfd4a399c8930aff1b2ac1e.png
+│       │   │       821eeac12a184fa7bfec45118fecba7c.png
+│       │   │       8bfacddee7154ab59ccd40690ec4a04f.png
+│       │   │       8ce0c57786ff4817a5de31d5bbf97023.png
+│       │   │       9b20d0050c7c414a820f6a9e1f85360a.png
+│       │   │       9bea8886956c46e6b1ce4032decfef7f.png
+│       │   │       a37560d05d8542f79edf4d3ef5eb4a88.png
+│       │   │       a86310997ddc4ea7bd08a6aee6fa50bd.png
+│       │   │       ae2f292f2ea941cfb10a7767941f40b4.png
+│       │   │       b45abced349746129b7f5da2f0bcc787.png
+│       │   │       b78e678ea6394c089fb7c57d3ebcfa33.png
+│       │   │       bbb07db8a911417a9d8d271158cabb3d.png
+│       │   │       c1454608f6344c58820b8512140eaf93.png
+│       │   │       c8e3222164cd41f7be08e1e5c0832bc4.png
+│       │   │       c9955895eb634bdcb3a303d7d976f360.png
+│       │   │       cbee270619574959896de53dc91b2491.jpg
+│       │   │       ce166a5a71fa487dbbc053b077e76b4f.png
+│       │   │       d360900a8b7a402ca2d2562014dae4b8.png
+│       │   │       d59b8b86c2a6401d889159ee3aad2d39.png
+│       │   │       dc76ad85b0154edf87541b588b865b1f.png
+│       │   │       dfc6f940a9b647e3af3d55f923328ebb.png
+│       │   │       e97f43b0bbc14a56898701cfe0e79e31.png
+│       │   │       f2d9f2d6aa37424bb51be1ef59094e3d.jpg
+│       │   │       f40a7034124447fa89bf82d654b01a4c.png
+│       │   │       f4fd6038407f4e09868777c78bae56e8.png
+│       │   │       f68d2dba2ea944388486d214e68319e1.png
+│       │   │       fc1c6eb8b2374997a4d51f960ad6ab33.jpeg
+│       │   │       ffd6e3858f17458693af5ff47b3b2c24.png
+│       │   │       
+│       │   └───國考中文醫學知識網站架設計畫
+│       │       ├───兒科
+│       │       │   │   兒內.md
+│       │       │   │   兒外.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   編輯格式.md
+│       │       │   │   
+│       │       │   ├───兒內
+│       │       │   │   │   兒科基礎.md
+│       │       │   │   │   兒童發展、疫苗.md
+│       │       │   │   │   兒童過敏免疫風濕疾病.md
+│       │       │   │   │   內分泌疾病.md
+│       │       │   │   │   小兒腎臟學疾病.md
+│       │       │   │   │   心臟肺部血管系統.md
+│       │       │   │   │   感染科學.md
+│       │       │   │   │   新生兒科.md
+│       │       │   │   │   消化系統.md
+│       │       │   │   │   神經系統性疾病.md
+│       │       │   │   │   腫瘤學.md
+│       │       │   │   │   血液學.md
+│       │       │   │   │   遺傳學.md
+│       │       │   │   │   
+│       │       │   │   └───新生兒科
+│       │       │   │           新生兒呼吸相關疾病.md
+│       │       │   │           新生兒感染感染.md
+│       │       │   │           新生兒評估(Newborn PE).md
+│       │       │   │           新生兒黃疸(Neonatal Jaundice).md
+│       │       │   │           
+│       │       │   └───兒外
+│       │       │           先天腹壁異常.md
+│       │       │           創傷.md
+│       │       │           惡性腫瘤.md
+│       │       │           生殖泌尿道.md
+│       │       │           肝膽道疾病.md
+│       │       │           腦及神經疾病.md
+│       │       │           腸胃道.md
+│       │       │           血管性疾病.md
+│       │       │           頸部腫塊[CS].md
+│       │       │           體液、電解質及營養.md
+│       │       │           
+│       │       ├───內科
+│       │       │   │   CV-整體修改建議如下.md
+│       │       │   │   GI.md
+│       │       │   │   META.md
+│       │       │   │   ?模板試作(HTN).md
+│       │       │   │   內科值班常見情形.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   胸內.md
+│       │       │   │   
+│       │       │   ├───CV-整體修改建議如下
+│       │       │   │   │   ACLS 需要圖片喔.md
+│       │       │   │   │   Aortic disease.md
+│       │       │   │   │   Cardiac neoplasm.md
+│       │       │   │   │   Cardiomyopathy.md
+│       │       │   │   │   EKG.md
+│       │       │   │   │   Ischemic heart disease（IHD）.md
+│       │       │   │   │   Syncope （內容太少了喔）.md
+│       │       │   │   │   Vascular disease.md
+│       │       │   │   │   心包疾病 Pericarditis disease.md
+│       │       │   │   │   心律不整.md
+│       │       │   │   │   心臟電生理.md
+│       │       │   │   │   心衰竭.md
+│       │       │   │   │   瓣膜性心臟病.md
+│       │       │   │   │   高血壓.md
+│       │       │   │   │   高血脂.md
+│       │       │   │   │   
+│       │       │   │   ├───Aortic disease
+│       │       │   │   │       Aneurysm.md
+│       │       │   │   │       主動脈剝離.md
+│       │       │   │   │       
+│       │       │   │   ├───Ischemic heart disease（IHD）
+│       │       │   │   │       Acute coronary syndrome.md
+│       │       │   │   │       Coronary artery disease.md
+│       │       │   │   │       
+│       │       │   │   └───Vascular disease
+│       │       │   │           Peripheral Artery Disease (PAD).md
+│       │       │   │           靜脈血栓栓塞症（Venous Thromboembolism, VTE.md
+│       │       │   │           
+│       │       │   ├───GI
+│       │       │   │   │   上消化道-上消化道出血.md
+│       │       │   │   │   上消化道-吞嚥困難與食道疾病.md
+│       │       │   │   │   上消化道-胃部疾病.md
+│       │       │   │   │   代謝性肝病.md
+│       │       │   │   │   大腸與直腸疾病-IBD.md
+│       │       │   │   │   小腸疾病-腹瀉與吸收障礙.md
+│       │       │   │   │   急性腸阻塞.md
+│       │       │   │   │   急性腹症.md
+│       │       │   │   │   急性與慢性肝炎.md
+│       │       │   │   │   慢性胰臟炎.md
+│       │       │   │   │   結腸疾病.md
+│       │       │   │   │   肝硬化與併發症.md
+│       │       │   │   │   肝腫瘤與癌症.md
+│       │       │   │   │   肝臟疾病-肝功能異常與評估.md
+│       │       │   │   │   肝臟移植與TIPS.md
+│       │       │   │   │   胰臟疾病（Pancreas）-急性胰臟炎.md
+│       │       │   │   │   胰臟腫瘤.md
+│       │       │   │   │   脂肪肝與酒精性肝病.md
+│       │       │   │   │   腸躁症 IBS.md
+│       │       │   │   │   膽道感染與腫瘤.md
+│       │       │   │   │   膽道疾病-膽結石與膽囊炎.md
+│       │       │   │   │   膽道阻塞.md
+│       │       │   │   │   黃疸與膽紅素異常.md
+│       │       │   │   │   
+│       │       │   │   ├───上消化道-上消化道出血
+│       │       │   │   │       Esophageal Varices.md
+│       │       │   │   │       Mallory-Weiss Tear.md
+│       │       │   │   │       UGI bleeding.md
+│       │       │   │   │       
+│       │       │   │   ├───上消化道-吞嚥困難與食道疾病
+│       │       │   │   │       Achalasia.md
+│       │       │   │   │       Diverticula.md
+│       │       │   │   │       Dysphagia?吞嚥困難.md
+│       │       │   │   │       GERD.md
+│       │       │   │   │       食道癌.md
+│       │       │   │   │       
+│       │       │   │   ├───上消化道-胃部疾病
+│       │       │   │   │       Gastric Cancer.md
+│       │       │   │   │       Gastritis.md
+│       │       │   │   │       Peptic Ulcer Disease.md
+│       │       │   │   │       Zollinger-Ellison Syndrome.md
+│       │       │   │   │       
+│       │       │   │   ├───大腸與直腸疾病-IBD
+│       │       │   │   │       Crohn’s Disease.md
+│       │       │   │   │       Ulcerative Colitis.md
+│       │       │   │   │       
+│       │       │   │   ├───小腸疾病-腹瀉與吸收障礙
+│       │       │   │   │       AcuteChronic Diarrhea.md
+│       │       │   │   │       Malabsorption 吸收不良症候群.md
+│       │       │   │   │       
+│       │       │   │   ├───急性腹症
+│       │       │   │   │       急性腹膜炎 Peritonitis.md
+│       │       │   │   │       急性闌尾炎 Appendicitis.md
+│       │       │   │   │       
+│       │       │   │   ├───結腸疾病
+│       │       │   │   │       Colorectal Cancer.md
+│       │       │   │   │       Diverticulitis.md
+│       │       │   │   │       Ischemic Colitis.md
+│       │       │   │   │       
+│       │       │   │   ├───膽道感染與腫瘤
+│       │       │   │   │       Cholangiocarcinoma.md
+│       │       │   │   │       Cholangitis.md
+│       │       │   │   │       PSC vs PBC.md
+│       │       │   │   │       
+│       │       │   │   └───膽道疾病-膽結石與膽囊炎
+│       │       │   │           Cholecystitis.md
+│       │       │   │           Cholelithiasis.md
+│       │       │   │           Gallstone ileus.md
+│       │       │   │           
+│       │       │   ├───META
+│       │       │   │       DM foot.md
+│       │       │   │       
+│       │       │   ├───內科值班常見情形
+│       │       │   │       休克.md
+│       │       │   │       發燒.md
+│       │       │   │       
+│       │       │   └───胸內
+│       │       │       │   Critical care.md
+│       │       │       │   Respiratory failure.md
+│       │       │       │   Sleep apnea.md
+│       │       │       │   感染.md
+│       │       │       │   編輯格式.md
+│       │       │       │   肋膜疾病.md
+│       │       │       │   肺癌.md
+│       │       │       │   胸腔基礎.md
+│       │       │       │   限制性肺疾病.md
+│       │       │       │   
+│       │       │       ├───Critical care
+│       │       │       │       APACHE.md
+│       │       │       │       SOFA.md
+│       │       │       │       
+│       │       │       ├───Respiratory failure
+│       │       │       │       Acute Respiratory Distress Syndrome.md
+│       │       │       │       Respiratory failure.md
+│       │       │       │       TRALI.md
+│       │       │       │       呼吸器.md
+│       │       │       │       
+│       │       │       ├───感染
+│       │       │       │       Lung abscess.md
+│       │       │       │       Pneumonia.md
+│       │       │       │       TB.md
+│       │       │       │       
+│       │       │       ├───編輯格式
+│       │       │       │       Bronchiectasis.md
+│       │       │       │       COPD.md
+│       │       │       │       Cystic fibrosis.md
+│       │       │       │       氣喘.md
+│       │       │       │       
+│       │       │       ├───肋膜疾病
+│       │       │       │       Pleural effusion.md
+│       │       │       │       Pulmonary embolism.md
+│       │       │       │       
+│       │       │       └───限制性肺疾病
+│       │       │               Hypersensitivity pneumonitis.md
+│       │       │               Interstitial lung disease.md
+│       │       │               執業和環境造成.md
+│       │       │               
+│       │       ├───其他科
+│       │       │   │   AI prompt.md
+│       │       │   │   ENT.md
+│       │       │   │   NEURO.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   大綱架構.md
+│       │       │   │   復健科.md
+│       │       │   │   皮膚科.md
+│       │       │   │   眼科.md
+│       │       │   │   精神科.md
+│       │       │   │   麻醉.md
+│       │       │   │   
+│       │       │   ├───皮膚科
+│       │       │   │       乾癬.md
+│       │       │   │       先天性疾病.md
+│       │       │   │       感染性皮膚病.md
+│       │       │   │       水泡疾病.md
+│       │       │   │       皮膚炎濕疹和炎症性疾病.md
+│       │       │   │       皮膚腫瘤皮膚增生.md
+│       │       │   │       皮膚色素病.md
+│       │       │   │       自體免疫性疾病.md
+│       │       │   │       藥物疹.md
+│       │       │   │       
+│       │       │   ├───眼科
+│       │       │   │       淚液系統.md
+│       │       │   │       眼瞼.md
+│       │       │   │       結膜.md
+│       │       │   │       
+│       │       │   └───精神科
+│       │       │           未命名頁面.md
+│       │       │           
+│       │       ├───外科
+│       │       │   │   GS.md
+│       │       │   │   NS.md
+│       │       │   │   心外.md
+│       │       │   │   手掌腳掌dermis很厚，可以試著做secondary healing.md
+│       │       │   │   胸外.md
+│       │       │   │   
+│       │       │   ├───GS
+│       │       │   │       Acute adomen.md
+│       │       │   │       
+│       │       │   ├───NS
+│       │       │   │       Spinal cord injury[復健].md
+│       │       │   │       三叉神經痛.md
+│       │       │   │       昏迷指數.md
+│       │       │   │       神外術後電解質常見失衡.md
+│       │       │   │       脊椎疾病.md
+│       │       │   │       腦死判定.md
+│       │       │   │       腦瘤.md
+│       │       │   │       血管畸形.md
+│       │       │   │       頭部創傷顱內出血.md
+│       │       │   │       顱內出血.md
+│       │       │   │       顱內壓.md
+│       │       │   │       顱頸交界處異常(Craniocervical junction ano.md
+│       │       │   │       
+│       │       │   ├───心外
+│       │       │   │   │   (V) 主動脈剝離 Aortic Dissection.md
+│       │       │   │   │   (V) 動脈瘤.md
+│       │       │   │   │   Eisenmenger’s Syndrome.md
+│       │       │   │   │   三心房（cor triatriatum）.md
+│       │       │   │   │   主動脈弓中斷（Interrupted Aortic Arch, IAA.md
+│       │       │   │   │   主動脈弓狹窄（CoA）.md
+│       │       │   │   │   先天性心臟病.md
+│       │       │   │   │   冠狀動脈疾病及冠狀動脈繞道手術.md
+│       │       │   │   │   右心室雙出口（Double-Outlet Right Ventricl.md
+│       │       │   │   │   周邊血管疾病.md
+│       │       │   │   │   心室中膈缺損（Ventricular Septal Defect）.md
+│       │       │   │   │   心房中膈缺損（Atrial Septal Defect）.md
+│       │       │   │   │   心臟瓣膜疾病.md
+│       │       │   │   │   心臟移植.md
+│       │       │   │   │   心臟腫瘤.md
+│       │       │   │   │   感染性心內膜炎（Infective endocarditis）.md
+│       │       │   │   │   機械式循環輔助(Mechanical Circulatory Supp.md
+│       │       │   │   │   發紺型先天心臟病.md
+│       │       │   │   │   肺動脈狹窄（Pulmonary Stenosis）.md
+│       │       │   │   │   部份肺靜脈回流異常（Partial anomalous pulmona.md
+│       │       │   │   │   開放性動脈導管（Patent Ductus Arteriosus, P.md
+│       │       │   │   │   非發紺型先天性心臟病.md
+│       │       │   │   │   
+│       │       │   │   ├───冠狀動脈疾病及冠狀動脈繞道手術
+│       │       │   │   │       (V) 冠狀動脈繞道術（Coronary artery bypass .md
+│       │       │   │   │       (X) Transmyocardial laser revascula.md
+│       │       │   │   │       
+│       │       │   │   ├───周邊血管疾病
+│       │       │   │   │       (X) 肺栓塞（Pulmonary Embolism）.md
+│       │       │   │   │       上肢深層靜脈栓塞（Upper Extremity Deep Vein .md
+│       │       │   │   │       其他靜脈性疾病.md
+│       │       │   │   │       周邊動脈阻塞性疾病(Peripheral artery occlusi.md
+│       │       │   │   │       深層靜脈栓塞（Deep vein thrombosis, DVT）.md
+│       │       │   │   │       靜脈功能不全（Chronic venous insufficiency.md
+│       │       │   │   │       非血栓性栓塞（Nonthrombotic Embolism）.md
+│       │       │   │   │       
+│       │       │   │   ├───心臟瓣膜疾病
+│       │       │   │   │       主動脈瓣狹窄（Aortic Stenosis).md
+│       │       │   │   │       主動脈逆流（Aortic Regurgitation, AR).md
+│       │       │   │   │       二尖瓣狹窄（Mitral Valve Stenosis）.md
+│       │       │   │   │       二尖瓣閉鎖不全（Mitral Regurgitation）.md
+│       │       │   │   │       人造瓣膜的選擇(Prosthetic?valve).md
+│       │       │   │   │       
+│       │       │   │   └───發紺型先天心臟病
+│       │       │   │           Ebstein anomaly.md
+│       │       │   │           三尖瓣閉鎖 Tricuspid Valve Atresia.md
+│       │       │   │           全肺靜脈回流異常（Total anomalous pulmonary .md
+│       │       │   │           兩側右心房.md
+│       │       │   │           動脈幹 Persistent Truncus Arteriosus.md
+│       │       │   │           大動脈轉位 Transposition of the great ar.md
+│       │       │   │           左心發育不全 Hypoplastic Left Heart Syndr.md
+│       │       │   │           法洛氏四重症（Tetralogy of Fallot）.md
+│       │       │   │           肺動脈閉鎖 Pulmonary Valve Atresia.md
+│       │       │   │           
+│       │       │   └───胸外
+│       │       │           胸廓異常（Pectus deformity）.md
+│       │       │           
+│       │       ├───婦產科
+│       │       │   │   GYN.md
+│       │       │   │   OB.md
+│       │       │   │   OP.md
+│       │       │   │   URO.md
+│       │       │   │   圖庫資源.md
+│       │       │   │   胚胎解剖學.md
+│       │       │   │   高危險妊娠.md
+│       │       │   │   
+│       │       │   ├───GYN
+│       │       │   │   │   一般婦科學.md
+│       │       │   │   │   不孕症.md
+│       │       │   │   │   女性內分泌學.md
+│       │       │   │   │   婦科良性與惡性腫瘤.md
+│       │       │   │   │   
+│       │       │   │   ├───一般婦科學
+│       │       │   │   │       口服避孕藥.md
+│       │       │   │   │       婦科急症.md
+│       │       │   │   │       婦科感染症.md
+│       │       │   │   │       婦科手術併發症.md
+│       │       │   │   │       子宮內膜異位症.md
+│       │       │   │   │       子宮外孕.md
+│       │       │   │   │       陰道鏡.md
+│       │       │   │   │       
+│       │       │   │   ├───不孕症
+│       │       │   │   │       不孕症概論.md
+│       │       │   │   │       人工協助生殖技術.md
+│       │       │   │   │       卵巢過度刺激症候群.md
+│       │       │   │   │       女性不孕.md
+│       │       │   │   │       子宮腔沾黏.md
+│       │       │   │   │       男性不孕.md
+│       │       │   │   │       
+│       │       │   │   ├───女性內分泌學
+│       │       │   │   │       原發性卵巢功能不全.md
+│       │       │   │   │       反覆性流產.md
+│       │       │   │   │       多囊性卵巢症候群.md
+│       │       │   │   │       更年期及荷爾蒙治療.md
+│       │       │   │   │       月經週期.md
+│       │       │   │   │       無月經.md
+│       │       │   │   │       青春期.md
+│       │       │   │   │       骨質疏鬆症.md
+│       │       │   │   │       
+│       │       │   │   └───婦科良性與惡性腫瘤
+│       │       │   │           人類乳突病毒與子宮頸疫苗.md
+│       │       │   │           卵巢上皮細胞腫瘤.md
+│       │       │   │           卵巢囊腫或腫瘤概論.md
+│       │       │   │           卵巢性索間質腫瘤.md
+│       │       │   │           卵巢生殖細胞腫瘤.md
+│       │       │   │           外陰癌.md
+│       │       │   │           妊娠滋養層疾病.md
+│       │       │   │           子宮內膜增生.md
+│       │       │   │           子宮內膜癌.md
+│       │       │   │           子宮肌瘤.md
+│       │       │   │           子宮頸癌.md
+│       │       │   │           子宮頸癌前病變.md
+│       │       │   │           陰道癌.md
+│       │       │   │           
+│       │       │   ├───OB
+│       │       │   │   │   生產時期.md
+│       │       │   │   │   產前時期.md
+│       │       │   │   │   產後時期.md
+│       │       │   │   │   
+│       │       │   │   ├───生產時期
+│       │       │   │   │       安胎.md
+│       │       │   │   │       早產、早期陣痛與早期破水.md
+│       │       │   │   │       正常分娩與產程遲滯.md
+│       │       │   │   │       流產與終止妊娠.md
+│       │       │   │   │       生產胎兒監視.md
+│       │       │   │   │       生產評估.md
+│       │       │   │   │       產前出血.md
+│       │       │   │   │       產前胎兒評估.md
+│       │       │   │   │       產婦胎兒生理學.md
+│       │       │   │   │       產檢.md
+│       │       │   │   │       肩難產.md
+│       │       │   │   │       胎兒健康.md
+│       │       │   │   │       過期妊娠與催生.md
+│       │       │   │   │       
+│       │       │   │   └───產後時期
+│       │       │   │           新生兒.md
+│       │       │   │           產後出血.md
+│       │       │   │           產褥期.md
+│       │       │   │           
+│       │       │   ├───OP
+│       │       │   │       子宮鏡.md
+│       │       │   │       腹腔鏡.md
+│       │       │   │       
+│       │       │   ├───URO
+│       │       │   │       尿失禁.md
+│       │       │   │       排尿生理學與尿路動力學檢查.md
+│       │       │   │       泌尿道感染.md
+│       │       │   │       骨盆腔器官?垂.md
+│       │       │   │       
+│       │       │   ├───胚胎解剖學
+│       │       │   │       胚胎學.md
+│       │       │   │       解剖學.md
+│       │       │   │       
+│       │       │   └───高危險妊娠
+│       │       │           妊娠糖尿病.md
+│       │       │           妊娠高血壓與子癲前症.md
+│       │       │           懷孕併甲狀腺疾病.md
+│       │       │           
+│       │       └───籌備行政事項
+│       │           │   FC架構參考.md
+│       │           │   ?模板試作(HTN).md
+│       │           │   工程組測試頁面.md
+│       │           │   
+│       │           └───FC架構參考
+│       │                   兒科.md
+│       │                   內科.md
+│       │                   外科.md
+│       │                   婦產科.md
+│       │                   示範ITP.md
+│       │                   
+│       └───國考中文醫學知識網站架設計畫-20250705 12-21
+│           ├───resources
+│           │       0fc21978bade4c7294ebb6b5a307c775.png
+│           │       128b2e6c6c6d46119ca78f46c53cc658.png
+│           │       155c0a24baa04a9b96ec133136fceffc.png
+│           │       23cb1ecc65e54a7bbec11ee5d5961e2f.png
+│           │       2830b22bccec455aa34333bcfbd6c90a.png
+│           │       2a55169289164d1c9b244c85c796e959.png
+│           │       2a69442d913f4f51ad1b22880fa16844.png
+│           │       3858055493f5443583551428d09843b8.png
+│           │       3edea712ed6c4416a877b2be13a1c18e.png
+│           │       40a91d81d96149a1b518d69771532f77.png
+│           │       41bc9c95084f43a7981088044d16ff72.png
+│           │       475c49ecfe9546dabe170e0177cf14d4.jpg
+│           │       47bf0e31a8c2452389f9b06440675c80.png
+│           │       4972b3df1b224461929a8f7fa9821759.png
+│           │       497b4554bb0847f29db5c50619a6173f.png
+│           │       4afb83034c7542ba91ac2cf3779fcf1b.png
+│           │       4cf4221e5fe3442aa80d277a66c65ee8.png
+│           │       523db5187e4744948daa6f6b228e1901.png
+│           │       5bb536c621a549abb3366b7732d3c356.png
+│           │       5d9a49a34a15463291344053e71d461a.png
+│           │       635d052e3e344282b643e6aee54f090a.png
+│           │       66733c06babf4c498056ad7970b66ad3.png
+│           │       668bec51a9e84e97acbc8af339cd3b54.png
+│           │       68ddeabd31fc4056bf9df0768eb77857.png
+│           │       712154cba29d43afa03731aebb164c9f.png
+│           │       74f732e4fa394884aaa909797f20b85c.jpeg
+│           │       7762ce1dd54247d38e6039ddaaff93e0.png
+│           │       7f8625900c1344bdb7a8ddf7c1ab4153.png
+│           │       83eed03afe234e8093c6ee112aadfb1e.png
+│           │       890cdf4a822f4820a43f56b728e146fc.png
+│           │       8c53c86e00344ea797a38c02d7a0a987.png
+│           │       8f444909a1dc422db9b2cefe8bd5cc60.png
+│           │       95dd8d531dc1476c87614b9f681f63b0.png
+│           │       9900514c6f0244b79501bd111631e435.png
+│           │       9991894cd98e4151bb990ac2ae1bc829.png
+│           │       9a68436721b84a7f8b52331cd57aaaac.png
+│           │       9afe6d6132b44d74aaede5e88699d2e0.png
+│           │       9bc6ee4842db4636a46ccabb8b59360a.png
+│           │       9d110d1ddf0943d48c0b88d1a628ebb6.png
+│           │       9d21bc8fb46f418b8816ec7225428d58.png
+│           │       a36b0b9bc3f145b183b793c2e2054a53.png
+│           │       a383aea1e8e542f5a0b11f47539cbcfc.png
+│           │       aa0d0d46c57046f08d342988dd703530.png
+│           │       ab450c5fbb674f308a081f94bdd27167.png
+│           │       b003b1900f5043ca9f7aa4150aca16da.jpeg
+│           │       b11e71695dc846e98bb1f66ff62b24a1.jpg
+│           │       b37df1974d7a4d4dabca5fd3713b2127.png
+│           │       bbf87103e8234a3d93dda4be8950987b.png
+│           │       bccfe758f50f43aeb35d2a41a9d121e0.png
+│           │       bd210e23bb6d4752a47030a51e27ec9a.png
+│           │       bd40777d38a14204b706b82ae6ac139a.jpg
+│           │       c29f76c9a3b643afbb310279beca549e.jpg
+│           │       c2a28c18cd4042c7a45b07a51399c65e.png
+│           │       c50036957b0c41fa8bcb9ceb8ace31b1.png
+│           │       cb6df3e521ef44b4af4166b991c095fa.png
+│           │       d9ac5eb5cac941c39513a9ea96d1483c.png
+│           │       da4f39ca70334e2f84c4ca74456b136d.png
+│           │       e4d4a27b415a4e0d932579507a24f11f.png
+│           │       e8abd3700ec64bd6964367a92b6a8b32.jpg
+│           │       ed624ac65f684489961523c81725e813.png
+│           │       f76d3fad47b84e20aee16bdc6bdc7d70.png
+│           │       
+│           └───國考中文醫學知識網站架設計畫
+│               ├───兒科
+│               │   │   兒內.md
+│               │   │   兒外.md
+│               │   │   圖庫資源.md
+│               │   │   編輯格式.md
+│               │   │   
+│               │   ├───兒內
+│               │   │   │   兒科基礎.md
+│               │   │   │   兒童發展、疫苗.md
+│               │   │   │   兒童過敏免疫風濕疾病.md
+│               │   │   │   內分泌疾病.md
+│               │   │   │   小兒腎臟學疾病.md
+│               │   │   │   心臟肺部血管系統.md
+│               │   │   │   感染科學.md
+│               │   │   │   新生兒科.md
+│               │   │   │   消化系統.md
+│               │   │   │   神經系統性疾病.md
+│               │   │   │   腫瘤學.md
+│               │   │   │   血液學.md
+│               │   │   │   遺傳學.md
+│               │   │   │   
+│               │   │   └───新生兒科
+│               │   │           新生兒呼吸相關疾病.md
+│               │   │           新生兒感染感染.md
+│               │   │           新生兒評估(Newborn PE).md
+│               │   │           新生兒黃疸(Neonatal Jaundice).md
+│               │   │           
+│               │   └───兒外
+│               │           先天腹壁異常.md
+│               │           創傷.md
+│               │           惡性腫瘤.md
+│               │           生殖泌尿道.md
+│               │           肝膽道疾病.md
+│               │           腦及神經疾病.md
+│               │           腸胃道.md
+│               │           血管性疾病.md
+│               │           頸部腫塊[CS].md
+│               │           體液、電解質及營養.md
+│               │           
+│               ├───內科
+│               │   │   CV-整體修改建議如下.md
+│               │   │   GI.md
+│               │   │   META.md
+│               │   │   ?模板試作(HTN).md
+│               │   │   內科值班常見情形.md
+│               │   │   圖庫資源.md
+│               │   │   胸內.md
+│               │   │   
+│               │   ├───CV-整體修改建議如下
+│               │   │   │   ACLS 需要圖片喔.md
+│               │   │   │   Aortic disease.md
+│               │   │   │   Cardiac neoplasm.md
+│               │   │   │   Cardiomyopathy.md
+│               │   │   │   EKG.md
+│               │   │   │   Ischemic heart disease（IHD）.md
+│               │   │   │   Syncope （內容太少了喔）.md
+│               │   │   │   Vascular disease.md
+│               │   │   │   心包疾病 Pericarditis disease.md
+│               │   │   │   心律不整.md
+│               │   │   │   心臟電生理.md
+│               │   │   │   心衰竭.md
+│               │   │   │   瓣膜性心臟病.md
+│               │   │   │   高血壓.md
+│               │   │   │   高血脂.md
+│               │   │   │   
+│               │   │   ├───Aortic disease
+│               │   │   │       Aneurysm.md
+│               │   │   │       主動脈剝離.md
+│               │   │   │       
+│               │   │   ├───Ischemic heart disease（IHD）
+│               │   │   │       Acute coronary syndrome.md
+│               │   │   │       Coronary artery disease.md
+│               │   │   │       
+│               │   │   └───Vascular disease
+│               │   │           Peripheral Artery Disease (PAD).md
+│               │   │           靜脈血栓栓塞症（Venous Thromboembolism, VTE.md
+│               │   │           
+│               │   ├───GI
+│               │   │   │   上消化道-上消化道出血.md
+│               │   │   │   上消化道-吞嚥困難與食道疾病.md
+│               │   │   │   上消化道-胃部疾病.md
+│               │   │   │   代謝性肝病.md
+│               │   │   │   大腸與直腸疾病-IBD.md
+│               │   │   │   小腸疾病-腹瀉與吸收障礙.md
+│               │   │   │   急性腸阻塞.md
+│               │   │   │   急性腹症.md
+│               │   │   │   急性與慢性肝炎.md
+│               │   │   │   慢性胰臟炎.md
+│               │   │   │   結腸疾病.md
+│               │   │   │   肝硬化與併發症.md
+│               │   │   │   肝腫瘤與癌症.md
+│               │   │   │   肝臟疾病-肝功能異常與評估.md
+│               │   │   │   肝臟移植與TIPS.md
+│               │   │   │   胰臟疾病（Pancreas）-急性胰臟炎.md
+│               │   │   │   胰臟腫瘤.md
+│               │   │   │   脂肪肝與酒精性肝病.md
+│               │   │   │   腸躁症 IBS.md
+│               │   │   │   膽道感染與腫瘤.md
+│               │   │   │   膽道疾病-膽結石與膽囊炎.md
+│               │   │   │   膽道阻塞.md
+│               │   │   │   黃疸與膽紅素異常.md
+│               │   │   │   
+│               │   │   ├───上消化道-上消化道出血
+│               │   │   │       Esophageal Varices.md
+│               │   │   │       Mallory-Weiss Tear.md
+│               │   │   │       UGI bleeding.md
+│               │   │   │       
+│               │   │   ├───上消化道-吞嚥困難與食道疾病
+│               │   │   │       Achalasia.md
+│               │   │   │       Diverticula.md
+│               │   │   │       Dysphagia?吞嚥困難.md
+│               │   │   │       GERD.md
+│               │   │   │       食道癌.md
+│               │   │   │       
+│               │   │   ├───上消化道-胃部疾病
+│               │   │   │       Gastric Cancer.md
+│               │   │   │       Gastritis.md
+│               │   │   │       Peptic Ulcer Disease.md
+│               │   │   │       Zollinger-Ellison Syndrome.md
+│               │   │   │       
+│               │   │   ├───大腸與直腸疾病-IBD
+│               │   │   │       Crohn’s Disease.md
+│               │   │   │       Ulcerative Colitis.md
+│               │   │   │       
+│               │   │   ├───小腸疾病-腹瀉與吸收障礙
+│               │   │   │       AcuteChronic Diarrhea.md
+│               │   │   │       Malabsorption 吸收不良症候群.md
+│               │   │   │       
+│               │   │   ├───急性腹症
+│               │   │   │       急性腹膜炎 Peritonitis.md
+│               │   │   │       急性闌尾炎 Appendicitis.md
+│               │   │   │       
+│               │   │   ├───結腸疾病
+│               │   │   │       Colorectal Cancer.md
+│               │   │   │       Diverticulitis.md
+│               │   │   │       Ischemic Colitis.md
+│               │   │   │       
+│               │   │   ├───膽道感染與腫瘤
+│               │   │   │       Cholangiocarcinoma.md
+│               │   │   │       Cholangitis.md
+│               │   │   │       PSC vs PBC.md
+│               │   │   │       
+│               │   │   └───膽道疾病-膽結石與膽囊炎
+│               │   │           Cholecystitis.md
+│               │   │           Cholelithiasis.md
+│               │   │           Gallstone ileus.md
+│               │   │           
+│               │   ├───META
+│               │   │       DM foot.md
+│               │   │       
+│               │   ├───內科值班常見情形
+│               │   │       休克.md
+│               │   │       發燒.md
+│               │   │       
+│               │   └───胸內
+│               │       │   Critical care.md
+│               │       │   Respiratory failure.md
+│               │       │   Sleep apnea.md
+│               │       │   感染.md
+│               │       │   編輯格式.md
+│               │       │   肋膜疾病.md
+│               │       │   肺癌.md
+│               │       │   胸腔基礎.md
+│               │       │   限制性肺疾病.md
+│               │       │   
+│               │       ├───Critical care
+│               │       │       APACHE.md
+│               │       │       SOFA.md
+│               │       │       
+│               │       ├───Respiratory failure
+│               │       │       Acute Respiratory Distress Syndrome.md
+│               │       │       Respiratory failure.md
+│               │       │       TRALI.md
+│               │       │       呼吸器.md
+│               │       │       
+│               │       ├───感染
+│               │       │       Lung abscess.md
+│               │       │       Pneumonia.md
+│               │       │       TB.md
+│               │       │       
+│               │       ├───編輯格式
+│               │       │       Bronchiectasis.md
+│               │       │       COPD.md
+│               │       │       Cystic fibrosis.md
+│               │       │       氣喘.md
+│               │       │       
+│               │       ├───肋膜疾病
+│               │       │       Pleural effusion.md
+│               │       │       Pulmonary embolism.md
+│               │       │       
+│               │       └───限制性肺疾病
+│               │               Hypersensitivity pneumonitis.md
+│               │               Interstitial lung disease.md
+│               │               執業和環境造成.md
+│               │               
+│               ├───其他科
+│               │   │   AI prompt.md
+│               │   │   ENT.md
+│               │   │   NEURO.md
+│               │   │   圖庫資源.md
+│               │   │   大綱架構.md
+│               │   │   復健科.md
+│               │   │   皮膚科.md
+│               │   │   眼科.md
+│               │   │   精神科.md
+│               │   │   麻醉.md
+│               │   │   
+│               │   ├───皮膚科
+│               │   │       乾癬.md
+│               │   │       先天性疾病.md
+│               │   │       感染性皮膚病.md
+│               │   │       水泡疾病.md
+│               │   │       皮膚炎濕疹和炎症性疾病.md
+│               │   │       皮膚腫瘤皮膚增生.md
+│               │   │       皮膚色素病.md
+│               │   │       自體免疫性疾病.md
+│               │   │       藥物疹.md
+│               │   │       
+│               │   ├───眼科
+│               │   │       淚液系統.md
+│               │   │       眼瞼.md
+│               │   │       結膜.md
+│               │   │       
+│               │   └───精神科
+│               │           未命名頁面.md
+│               │           
+│               ├───外科
+│               │   │   GS.md
+│               │   │   NS.md
+│               │   │   心外.md
+│               │   │   手掌腳掌dermis很厚，可以試著做secondary healing.md
+│               │   │   胸外.md
+│               │   │   
+│               │   ├───GS
+│               │   │       Acute adomen.md
+│               │   │       
+│               │   ├───NS
+│               │   │       Spinal cord injury[復健].md
+│               │   │       三叉神經痛.md
+│               │   │       昏迷指數.md
+│               │   │       神外術後電解質常見失衡.md
+│               │   │       脊椎疾病.md
+│               │   │       腦死判定.md
+│               │   │       腦瘤.md
+│               │   │       血管畸形.md
+│               │   │       頭部創傷顱內出血.md
+│               │   │       顱內出血.md
+│               │   │       顱內壓.md
+│               │   │       顱頸交界處異常(Craniocervical junction ano.md
+│               │   │       
+│               │   ├───心外
+│               │   │   │   (V) 主動脈剝離 Aortic Dissection.md
+│               │   │   │   (V) 動脈瘤.md
+│               │   │   │   Eisenmenger’s Syndrome.md
+│               │   │   │   三心房（cor triatriatum）.md
+│               │   │   │   主動脈弓中斷（Interrupted Aortic Arch, IAA.md
+│               │   │   │   主動脈弓狹窄（CoA）.md
+│               │   │   │   先天性心臟病.md
+│               │   │   │   冠狀動脈疾病及冠狀動脈繞道手術.md
+│               │   │   │   右心室雙出口（Double-Outlet Right Ventricl.md
+│               │   │   │   周邊血管疾病.md
+│               │   │   │   心室中膈缺損（Ventricular Septal Defect）.md
+│               │   │   │   心房中膈缺損（Atrial Septal Defect）.md
+│               │   │   │   心臟瓣膜疾病.md
+│               │   │   │   心臟移植.md
+│               │   │   │   心臟腫瘤.md
+│               │   │   │   感染性心內膜炎（Infective endocarditis）.md
+│               │   │   │   機械式循環輔助(Mechanical Circulatory Supp.md
+│               │   │   │   發紺型先天心臟病.md
+│               │   │   │   肺動脈狹窄（Pulmonary Stenosis）.md
+│               │   │   │   部份肺靜脈回流異常（Partial anomalous pulmona.md
+│               │   │   │   開放性動脈導管（Patent Ductus Arteriosus, P.md
+│               │   │   │   非發紺型先天性心臟病.md
+│               │   │   │   
+│               │   │   ├───冠狀動脈疾病及冠狀動脈繞道手術
+│               │   │   │       (V) 冠狀動脈繞道術（Coronary artery bypass .md
+│               │   │   │       (X) Transmyocardial laser revascula.md
+│               │   │   │       
+│               │   │   ├───周邊血管疾病
+│               │   │   │       (X) 肺栓塞（Pulmonary Embolism）.md
+│               │   │   │       上肢深層靜脈栓塞（Upper Extremity Deep Vein .md
+│               │   │   │       其他靜脈性疾病.md
+│               │   │   │       周邊動脈阻塞性疾病(Peripheral artery occlusi.md
+│               │   │   │       深層靜脈栓塞（Deep vein thrombosis, DVT）.md
+│               │   │   │       靜脈功能不全（Chronic venous insufficiency.md
+│               │   │   │       非血栓性栓塞（Nonthrombotic Embolism）.md
+│               │   │   │       
+│               │   │   ├───心臟瓣膜疾病
+│               │   │   │       主動脈瓣狹窄（Aortic Stenosis).md
+│               │   │   │       主動脈逆流（Aortic Regurgitation, AR).md
+│               │   │   │       二尖瓣狹窄（Mitral Valve Stenosis）.md
+│               │   │   │       二尖瓣閉鎖不全（Mitral Regurgitation）.md
+│               │   │   │       人造瓣膜的選擇(Prosthetic?valve).md
+│               │   │   │       
+│               │   │   └───發紺型先天心臟病
+│               │   │           Ebstein anomaly.md
+│               │   │           三尖瓣閉鎖 Tricuspid Valve Atresia.md
+│               │   │           全肺靜脈回流異常（Total anomalous pulmonary .md
+│               │   │           兩側右心房.md
+│               │   │           動脈幹 Persistent Truncus Arteriosus.md
+│               │   │           大動脈轉位 Transposition of the great ar.md
+│               │   │           左心發育不全 Hypoplastic Left Heart Syndr.md
+│               │   │           法洛氏四重症（Tetralogy of Fallot）.md
+│               │   │           肺動脈閉鎖 Pulmonary Valve Atresia.md
+│               │   │           
+│               │   └───胸外
+│               │           胸廓異常（Pectus deformity）.md
+│               │           
+│               ├───婦產科
+│               │   │   GYN.md
+│               │   │   OB.md
+│               │   │   OP.md
+│               │   │   URO.md
+│               │   │   圖庫資源.md
+│               │   │   胚胎解剖學.md
+│               │   │   高危險妊娠.md
+│               │   │   
+│               │   ├───GYN
+│               │   │   │   一般婦科學.md
+│               │   │   │   不孕症.md
+│               │   │   │   女性內分泌學.md
+│               │   │   │   婦科良性與惡性腫瘤.md
+│               │   │   │   
+│               │   │   ├───一般婦科學
+│               │   │   │       口服避孕藥.md
+│               │   │   │       婦科急症.md
+│               │   │   │       婦科感染症.md
+│               │   │   │       婦科手術併發症.md
+│               │   │   │       子宮內膜異位症.md
+│               │   │   │       子宮外孕.md
+│               │   │   │       陰道鏡.md
+│               │   │   │       
+│               │   │   ├───不孕症
+│               │   │   │       不孕症概論.md
+│               │   │   │       人工協助生殖技術.md
+│               │   │   │       卵巢過度刺激症候群.md
+│               │   │   │       女性不孕.md
+│               │   │   │       子宮腔沾黏.md
+│               │   │   │       男性不孕.md
+│               │   │   │       
+│               │   │   ├───女性內分泌學
+│               │   │   │       原發性卵巢功能不全.md
+│               │   │   │       反覆性流產.md
+│               │   │   │       多囊性卵巢症候群.md
+│               │   │   │       更年期及荷爾蒙治療.md
+│               │   │   │       月經週期.md
+│               │   │   │       無月經.md
+│               │   │   │       青春期.md
+│               │   │   │       骨質疏鬆症.md
+│               │   │   │       
+│               │   │   └───婦科良性與惡性腫瘤
+│               │   │           人類乳突病毒與子宮頸疫苗.md
+│               │   │           卵巢上皮細胞腫瘤.md
+│               │   │           卵巢囊腫或腫瘤概論.md
+│               │   │           卵巢性索間質腫瘤.md
+│               │   │           卵巢生殖細胞腫瘤.md
+│               │   │           外陰癌.md
+│               │   │           妊娠滋養層疾病.md
+│               │   │           子宮內膜增生.md
+│               │   │           子宮內膜癌.md
+│               │   │           子宮肌瘤.md
+│               │   │           子宮頸癌.md
+│               │   │           子宮頸癌前病變.md
+│               │   │           陰道癌.md
+│               │   │           
+│               │   ├───OB
+│               │   │   │   生產時期.md
+│               │   │   │   產前時期.md
+│               │   │   │   產後時期.md
+│               │   │   │   
+│               │   │   ├───生產時期
+│               │   │   │       安胎.md
+│               │   │   │       早產、早期陣痛與早期破水.md
+│               │   │   │       正常分娩與產程遲滯.md
+│               │   │   │       流產與終止妊娠.md
+│               │   │   │       生產胎兒監視.md
+│               │   │   │       生產評估.md
+│               │   │   │       產前出血.md
+│               │   │   │       產前胎兒評估.md
+│               │   │   │       產婦胎兒生理學.md
+│               │   │   │       產檢.md
+│               │   │   │       肩難產.md
+│               │   │   │       胎兒健康.md
+│               │   │   │       過期妊娠與催生.md
+│               │   │   │       
+│               │   │   └───產後時期
+│               │   │           新生兒.md
+│               │   │           產後出血.md
+│               │   │           產褥期.md
+│               │   │           
+│               │   ├───OP
+│               │   │       子宮鏡.md
+│               │   │       腹腔鏡.md
+│               │   │       
+│               │   ├───URO
+│               │   │       尿失禁.md
+│               │   │       排尿生理學與尿路動力學檢查.md
+│               │   │       泌尿道感染.md
+│               │   │       骨盆腔器官?垂.md
+│               │   │       
+│               │   ├───胚胎解剖學
+│               │   │       胚胎學.md
+│               │   │       解剖學.md
+│               │   │       
+│               │   └───高危險妊娠
+│               │           妊娠糖尿病.md
+│               │           妊娠高血壓與子癲前症.md
+│               │           懷孕併甲狀腺疾病.md
+│               │           
+│               └───籌備行政事項
+│                   │   FC架構參考.md
+│                   │   ?模板試作(HTN).md
+│                   │   工程組測試頁面.md
+│                   │   
+│                   └───FC架構參考
+│                           兒科.md
+│                           內科.md
+│                           外科.md
+│                           婦產科.md
+│                           示範ITP.md
+│                           
+├───pandoc
+│       COPYING.rtf
+│       COPYRIGHT.txt
+│       MANUAL.html
+│       pandoc.exe
+│       
+└───Resources
+        trad.en.json
+        trad.fr.json
+        trad.zh.json
+        
